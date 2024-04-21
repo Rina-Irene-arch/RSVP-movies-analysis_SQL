@@ -1,2 +1,4 @@
-# RSVP-movies-analysis_SQL-Internship-Project
- RSVP Movies, renowned for hit films in India, is going global with a 2024 movie. They're embracing data analytics for strategy optimization and international success, tapping into our data analysis expertise for guidance.
+# RSVP movies analysis - SQL Internship Project
+- RSVP Movies, a prominent Indian film production company, has achieved notable success in the domestic market by producing several super-hit films. As they venture into global cinema with an upcoming movie set for a 2024 release, they seek to adopt a data-driven approach to optimize their strategies and ensure international success. Recognizing the need for precise and insightful data analysis, RSVP Movies has enlisted our expertise in data analytics to guide their decision-making process.
+- The main goal of this project is to analyze data from films released over the past three years to provide RSVP Movies with actionable insights for their first global film release in 2024. 
+- Using SQL, we will identify key trends and success factors relevant to international audiences. Our findings will inform strategic recommendations, aiming to position RSVP Movies' upcoming film for global success and enhance their presence in the international film industry.
